@@ -1,0 +1,7 @@
+silde
+__pycache__
+dist
+*.egg-info
+*.Ds_Store
+build
+.venv
